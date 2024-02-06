@@ -20,6 +20,7 @@ Esta es un página que creamos en el curso de <a href="https://platzi.com/cursos
     <li>Comandos de Git para casos de emergencia</li>
     <li>Bonus sobre Git y Github</li>
     <li>Incluye ejemplo de windows, Linux y Mac</li>
+    <li>Disponible para todas las edades</li>
 </ul>
 <div>
     <h3>Colaboradoras</h3>
